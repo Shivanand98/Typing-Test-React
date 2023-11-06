@@ -26,11 +26,11 @@ const Footer = () => {
   }
 
   const handleGithub = (e) =>{
-    window.open("https://github.com/UmeshGolani", '_blank');
+    window.open("https://github.com/Shivanand98", '_blank');
   }
 
   const handleLinkedin = () =>{
-    window.open("https://www.linkedin.com/in/umeshgolani/", '_blank');
+    window.open("https://www.linkedin.com/in/shivanand-biradar-8a262022a/", '_blank');
   }
 
   const handleFacebook = () =>{
@@ -42,7 +42,7 @@ const Footer = () => {
   }
 
   const handleInstagram = () =>{
-    window.open("https://www.instagram.com/umesh.golani/", '_blank');
+    window.open("https://www.instagram.com/", '_blank');
   }
 
   return (
@@ -55,7 +55,7 @@ const Footer = () => {
         <DocumentScannerIcon style={iconStyle} onClick={handleDocs} />
       </div>
       <div className="copyright">
-        Copyright &#169; by Umesh Golani
+        Copyright &#169; by Shivanand Biradar
       </div>
 
       <div className="themeButton">
